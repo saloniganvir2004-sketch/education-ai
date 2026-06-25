@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Virtual Environments
+venv/
+venv312/
+.venv/
+env/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Build
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# Uploads
+uploads/
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+
+# Bytecode
+*.pyc
+
+# Release ZIP
+EducationAI-Release.zip
+EducationAI-Release/
+backend/models/*.bin
